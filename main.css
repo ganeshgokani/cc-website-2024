@@ -218,7 +218,7 @@ nav li a{
 
 #home .logobox{
     width: 100%;
-    background: url(/images/main.png);
+    background: url(images/main.png);
     background-size: 1300px 450px;
     background-color: rgba(0, 0, 0, 0.5);
     background-repeat: no-repeat;
@@ -648,7 +648,7 @@ font-weight: 100;
              .imgg
              {  
                 width: 100%;
-                background: url(/images/bg.png);
+                background: url(images/bg.png);
                 background-size: 1000px; /* Adjust the size of the background image */
                 background-position: bottom left;
                 background-repeat: no-repeat;
@@ -1121,7 +1121,7 @@ input[type="submit"]{
 #contact .image{
     height: 400px;
     width: 400px;
-    background-image: url("/images/image.png");
+    background-image: url("images/image.png");
     background-size: cover;
     background-position: center;
 }
